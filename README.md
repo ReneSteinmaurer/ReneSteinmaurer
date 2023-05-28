@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hallo, ich bin Rene Steinmaurer 👋
 
-<!--
-**ReneSteinmaurer/ReneSteinmaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein Softwareentwickler, der sich auf den Gesundheitssektor spezialisiert hat. Ich liebe es, Probleme zu lösen und dabei Technologie zu nutzen, um den Menschen das Leben zu erleichtern.
 
-Here are some ideas to get you started:
+## 🔭 Fähigkeiten und Erfahrungen
+- 🖥️ Java | JavaScript | TypeScript | HTML | CSS
+- 🗄️ SQL
+- 📱 Android
+- ⚙️ Node.js
+- 🐍 Ein wenig Python
+- ⚛️ Lerne gerade Next.js und React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Aktuelle Projekte
+Ich arbeite zur Zeit an einem Fitness App Projekt: [BlitzFit](https://github.com/ReneSteinmaurer/BlitzFit)
+
+## 💪 Hobbies
+Außerhalb der Arbeit verbringe ich meine Zeit gerne mit Kraftsport und Ausdauertraining. 
+
+## 📫 Wie Sie mich erreichen können
+- E-Mail: [rene.steinmaurer02@gmail.com](mailto:rene.steinmaurer02@gmail.com)
+
+Danke für Ihren Besuch auf meinem Profil und haben Sie einen schönen Tag! 😊
