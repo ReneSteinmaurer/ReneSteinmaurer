@@ -12,6 +12,7 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 
 ## 🌱 Current Projects
 I'm currently working on a fitness app project: [BlitzFit](https://github.com/ReneSteinmaurer/BlitzFit)
+
 and also on an app for events and festivals
 
 ## 💪 Hobbies
