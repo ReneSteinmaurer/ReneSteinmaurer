@@ -26,7 +26,7 @@ Thanks for visiting my profile and have a great day! 😊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneSteinmaurer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSteinmaurer&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSteinmaurer&show_icons=true&theme=dracula)
 
 
 
