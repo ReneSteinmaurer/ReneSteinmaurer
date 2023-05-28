@@ -23,10 +23,7 @@ Outside of work, I enjoy weightlifting and endurance training.
 
 Thanks for visiting my profile and have a great day! 😊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneSteinmaurer&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSteinmaurer&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneSteinmaurer&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSteinmaurer&show_icons=true&theme=dracula)
 
 
 
