@@ -24,8 +24,6 @@ Outside of work, I enjoy weightlifting and endurance training.
 
 Thanks for visiting my profile and have a great day! 😊
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneSteinmaurer&show_icons=true&theme=dracula)
-
 
 
 
