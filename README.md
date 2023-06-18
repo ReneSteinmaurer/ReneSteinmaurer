@@ -12,7 +12,7 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 - ⚛️ Currently learning Next.js and React
 
 ## 🌱 Current Projects
-I'm currently working on a fitness app project: [BlitzFit](https://github.com/ReneSteinmaurer/BlitzFit)
+🍗I'm currently working on a smoker which is automated with an arduino. I'm also creatong an android app for sensors inside the grill which provide the current temperatur and other useful sensoric data.
 
 And I'm also working on an app for events and festivals
 
