@@ -3,7 +3,7 @@
 I'm a software developer specializing in the healthcare sector. I love solving problems and leveraging technology to make people's lives easier.
 
 ## 🔭 Skills and Experience
-- 🖥️ Java 
+- 🖥️ Java | Java Spring Boot
 - 🌐 JavaScript | TypeScript | HTML | CSS
 - 🗄️ SQL
 - 📱 Android
