@@ -5,8 +5,9 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 ## 🔭 Skills and Experience
 - 🖥️ Java | JavaFX | Java Spring Boot
 - 🌐 JavaScript | TypeScript | HTML | CSS
-- 👀 Bootstrap | currently learning Tailwind
+- 👀 Bootstrap | learning Tailwind
 - 🗄️ SQL
+- 🍃 A bit of NoSQL
 - 📱 Android
 - ⚙️ Node.js
 - 🐍 A bit of Python
