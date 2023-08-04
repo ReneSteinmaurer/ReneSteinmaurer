@@ -6,7 +6,7 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 - 🖥️ Java | JavaFX | Java Spring Boot
 - 🌐 JavaScript | TypeScript | HTML | CSS
 - 👀 Bootstrap | learning Tailwind
-- 🗄️ SQL
+- 🗄️ MySQL, MariaDB
 - 🍃 MongoDB
 - 📱 Android
 - ⚙️ Node.js
