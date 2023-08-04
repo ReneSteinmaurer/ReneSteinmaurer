@@ -7,7 +7,7 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 - 🌐 JavaScript | TypeScript | HTML | CSS
 - 👀 Bootstrap | learning Tailwind
 - 🗄️ SQL
-- 🍃 A bit of NoSQL
+- 🍃 MongoDB
 - 📱 Android
 - ⚙️ Node.js
 - 🐍 A bit of Python
