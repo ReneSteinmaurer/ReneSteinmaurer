@@ -11,7 +11,7 @@ I'm a software developer specializing in the healthcare sector. I love solving p
 - 📱 Android
 - ⚙️ Node.js
 - 🐍 A bit of Python
-- ⚛️ Currently learning Next.js and React
+- ⚛️ Currently learning Next.js and Angular
 
 ## 🌱 Current Projects
 I'm currently working on a smoker which is automated with an arduino. I'm also creating an android app for the sensors inside the grill which provides the user with the current temperatur and other useful sensoric data. 🍗
