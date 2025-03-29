@@ -1,5 +1,5 @@
 # Hello, I'm Rene Steinmaurer 👋
 
-go ftw
+you can kiss my dry yagni ass
 
 
